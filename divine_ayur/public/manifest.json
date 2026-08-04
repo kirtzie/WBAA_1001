@@ -1,0 +1,16 @@
+{
+  "name": "Divine Ayurveda & Physiotherapy Clinic",
+  "short_name": "Divine Ayurveda",
+  "description": "Ayurvedic consultation, Panchkarma and physiotherapy in Rohtak, Haryana.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#0E8A4E",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    }
+  ]
+}
